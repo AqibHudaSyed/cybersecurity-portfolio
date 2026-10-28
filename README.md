@@ -49,4 +49,7 @@ More: [01-professional-statement](01-professional-statement/)
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/aqibhudasyed/
-- My notes on the topics behind these projects: https://github.com/AqibHudaSyed/cybersecurity-notes
+
+## Study notes
+
+My notes on the topics behind these projects: [cybersecurity-notes](https://github.com/AqibHudaSyed/cybersecurity-notes)
