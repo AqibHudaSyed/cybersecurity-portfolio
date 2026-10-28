@@ -48,4 +48,4 @@ More: [01-professional-statement](01-professional-statement/)
 
 ## Contact
 
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-profile)
+- LinkedIn: https://www.linkedin.com/in/aqibhudasyed/
