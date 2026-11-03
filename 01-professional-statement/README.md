@@ -1,6 +1,6 @@
 # Professional Statement
 
-> Result-driven IT professional with over five years of experience in systems administration and infrastructure, currently transitioning into dedicated cybersecurity. Strongly committed to ensuring data confidentiality, integrity, and continuous system availability by implementing robust security controls. Passionate about utilizing infrastructure automation and threat analysis to harden enterprise environments against evolving cyber risks.
+> Result-driven IT professional with over five years of experience in systems administration and infrastructure, currently transitioning into dedicated cybersecurity. Strongly committed to ensuring data confidentiality, integrity, and continuous system availability by implementing robust security controls. Experienced in auditing security controls and compliance against the NIST CSF, PCI DSS, GDPR and SOC 2, and turning gaps into prioritized recommendations. Passionate about utilizing infrastructure automation and threat analysis to harden enterprise environments against evolving cyber risks.
 
 ## What it's built on
 
