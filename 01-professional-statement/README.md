@@ -16,5 +16,6 @@
 | Version | Date | Change |
 |---|---|---|
 | v1 | Oct 2026 | First draft |
+| v2 | Nov 2026 | Added security audit and compliance experience (NIST CSF, PCI DSS, GDPR, SOC 2) after Course 2 |
 
 *This statement is updated as I complete new projects and learn new skills.*
