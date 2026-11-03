@@ -20,7 +20,7 @@ More: [01-professional-statement](01-professional-statement/)
 |---|---|---|---|
 | 01 | [Professional statement](01-professional-statement/) | Career goals, strengths and values | ✅ |
 | 02 | [Botium Toys — internal security audit](02-botium-toys-security-audit/) | Controls assessment, PCI DSS / GDPR / SOC 2 compliance, NIST CSF, risk-based recommendations | ✅ |
-| 03 | Network structure and security analysis | Network protocols, traffic analysis, hardening | 🔜 |
+| 03 | [Network structure and security analysis](03-network-structure-and-security-analysis/) | Network protocols, traffic analysis, hardening | ✅ |
 | 04 | Linux file permissions | Managing file and directory permissions from the Linux command line | 🔜 |
 | 05 | SQL queries with filters | Querying security logs and data with SQL | 🔜 |
 | 06 | Vulnerability assessment for a small business | Identifying threats, vulnerabilities and risk | 🔜 |
