@@ -1,4 +1,4 @@
-## Incident report: Network traffic analysis
+## Incident Report: Network Traffic Analysis
 
 A website stopped loading for users. I captured the network traffic with `tcpdump`, read the DNS and ICMP packets, and wrote an incident report on what went wrong.
 
