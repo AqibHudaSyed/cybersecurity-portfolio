@@ -1,4 +1,4 @@
-# Incident Report: Brute Force Attack and Malicious Redirect
+# Incident Report and Hardening: Brute Force Attack and Malicious Redirect
 
 ## Summary
 A former employee guessed the default admin password of a recipe website with a brute force attack. They added JavaScript to the site that made visitors download a malicious file. The file sent visitors to a fake copy of the website. I reproduced the attack in a sandbox, captured the traffic with `tcpdump`, and documented the incident. The main protocol involved was **HTTP**.
