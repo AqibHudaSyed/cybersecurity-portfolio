@@ -1,5 +1,3 @@
-# 03 — Network Structure and Security Analysis
-
 ## Incident report: Network traffic analysis
 
 A website stopped loading for users. I captured the network traffic with `tcpdump`, read the DNS and ICMP packets, and wrote an incident report on what went wrong.
