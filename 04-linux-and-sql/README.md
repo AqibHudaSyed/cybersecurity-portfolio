@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34577915/README.md)
-
 # 04 — Linux and SQL
 
 | # | Activity | File |
