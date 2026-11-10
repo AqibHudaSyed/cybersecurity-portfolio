@@ -1,4 +1,4 @@
-# 04 — Linux and SQL
+# 04 — Linux File Permissions
 
 | # | Activity | File |
 |---|---|---|
