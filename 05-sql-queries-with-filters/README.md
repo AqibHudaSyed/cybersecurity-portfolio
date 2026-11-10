@@ -1,4 +1,4 @@
-# 05 — SQL Queries with Fiters
+# 05 — SQL Queries with Filters
 
 | # | Activity | File |
 |---|---|---|
