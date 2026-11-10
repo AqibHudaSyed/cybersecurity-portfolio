@@ -8,7 +8,7 @@
 |---|---|
 | **Experience** | 5+ years in systems administration, IT support and network troubleshooting, including packet capture and analysis during outages |
 | **Values** | Protecting the confidentiality, integrity and availability (CIA) of data and systems |
-| **Strengths** | Infrastructure automation and threat analysis |
+| **Strengths** | Packet capture and analysis (tcpdump, Wireshark), security audits, incident reports, network hardening |
 | **Goal** | Help organizations harden their environments, with a focus on cloud security and security operations |
 
 ## Version history
