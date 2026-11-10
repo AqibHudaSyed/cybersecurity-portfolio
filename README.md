@@ -2,13 +2,13 @@
 
 IT professional with 5+ years in systems administration, infrastructure and network troubleshooting, moving into cybersecurity, with a focus on **cloud security** and **security operations (SOC)**.
 
-This repository collects hands-on projects and case studies that show how I apply security frameworks, controls and tools. Each project folder has its own README covering the scenario, my approach, findings and lessons learned, including the mistakes I made and how I corrected them.
+This repository collects hands-on projects and case studies that show how I apply security frameworks, controls and tools. Each project folder has its own README covering the scenario, my approach, findings and lessons learned.
 
 ---
 
 ## Professional statement
 
-> Results-driven IT professional with over five years of experience in systems administration and network infrastructure, including capturing and analysing packets with tcpdump and Wireshark to troubleshoot VoIP outages, now transitioning into cybersecurity as an ISC2 CC holder. I am committed to protecting organizations and the people they serve by keeping data confidential, accurate, and available. In my projects, I have done a security audit against the NIST CSF, PCI DSS, GDPR and SOC 2, analysed DNS, ICMP and SYN flood traffic, written incident reports using the NIST CSF, and recommended network and OS hardening. I am passionate about using network and threat analysis to detect issues early and harden enterprise environments against evolving cyber risks
+> Results-driven IT professional with over five years of experience in systems administration and network infrastructure, including capturing and analysing packets with tcpdump and Wireshark to troubleshoot VoIP outages, now transitioning into cybersecurity as an ISC2 CC holder. I am committed to protecting organizations and the people they serve by keeping data confidential, accurate, and available. In my projects, I have done a security audit against the NIST CSF, PCI DSS, GDPR and SOC 2, analysed DNS, ICMP and SYN flood traffic, written incident reports using the NIST CSF, and recommended network and OS hardening. I am passionate about using network and threat analysis to detect issues early and harden enterprise environments against evolving cyber risks.
 
 More: [01-professional-statement](01-professional-statement/)
 
