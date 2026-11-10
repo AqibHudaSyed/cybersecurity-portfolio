@@ -2,4 +2,4 @@
 
 | # | Activity | File |
 |---|---|---|
-| 01 | Queries with Fiters | [01-sql-queries-with-filters](01-sql-queries-with-filters.md) |
+| 01 | SQL Queries with Fiters | [01-sql-queries-with-filters](01-sql-queries-with-filters.md) |
