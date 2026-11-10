@@ -8,7 +8,7 @@ This repository collects hands-on projects and case studies that show how I appl
 
 ## Professional statement
 
-> Result-driven IT professional with over five years of experience in systems administration and infrastructure, currently transitioning into dedicated cybersecurity. Strongly committed to ensuring data confidentiality, integrity, and continuous system availability by implementing robust security controls. Experienced in auditing security controls and compliance against the NIST CSF, PCI DSS, GDPR and SOC 2, and turning gaps into prioritized recommendations. Passionate about utilizing infrastructure automation and threat analysis to harden enterprise environments against evolving cyber risks.
+> Results-driven IT professional with over five years of experience in systems administration and network infrastructure, including capturing and analysing packets with tcpdump and Wireshark to troubleshoot VoIP outages, now transitioning into cybersecurity as an ISC2 CC holder. I am committed to protecting organizations and the people they serve by keeping data confidential, accurate, and available. In my projects, I have done a security audit against the NIST CSF, PCI DSS, GDPR and SOC 2, analysed DNS, ICMP and SYN flood traffic, written incident reports using the NIST CSF, and recommended network and OS hardening. I am passionate about using network and threat analysis to detect issues early and harden enterprise environments against evolving cyber risks
 
 More: [01-professional-statement](01-professional-statement/)
 
