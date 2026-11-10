@@ -17,5 +17,6 @@
 |---|---|---|
 | v1 | Oct 2026 | First draft |
 | v2 | Nov 2026 | Added security audit and compliance experience (NIST CSF, PCI DSS, GDPR, SOC 2) after Course 2 |
+| v3 | Nov 2026 | Added traffic analysis, incident reports and network/OS hardening after Course 3 |
 
 *This statement is updated as I complete new projects and learn new skills.*
